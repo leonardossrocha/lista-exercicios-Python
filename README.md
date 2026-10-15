@@ -1,8 +1,8 @@
 # 🐍 Repositório: Lista de Exercícios em Python
 
-**Curso:** Ensino Médio Integrado ao Técnico em Inteligência Artificial (1º Ano)
-**Instituição:** SENAC Paraná (Colégio Marcelino Champagnat - Londrina)
-**Docente Responsável:** Prof. Me. Doutorando [Leonardo Rocha](https://www.linkedin.com/in/leonardossrocha/)
+**Curso:** Ensino Médio Integrado ao Técnico em Inteligência Artificial (1º Ano)  
+**Instituição:** SENAC Paraná (Colégio Marcelino Champagnat - Londrina)  
+**Docente Responsável:** Prof. Me. Doutorando [Leonardo Rocha](https://www.linkedin.com/in/leonardossrocha/)  
 
 ---
 
