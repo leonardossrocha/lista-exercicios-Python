@@ -9,6 +9,11 @@
 ## 📖 Visão Geral
 Este repositório centraliza todas as atividades práticas, desafios lógicos e listas de exercícios desenvolvidos ao longo da Unidade Curricular de Desenvolvimento em Python[cite: 3]. O propósito deste ambiente é estritamente **acadêmico e científico**, servindo como um portfólio de evolução técnica dos estudantes[cite: 3]. O foco é transcender a mera digitação de código, promovendo a aplicação do método científico na resolução de problemas e a construção de arquiteturas de software seguras.
 
+## 🚀 Execução em Nuvem (Google Colab)
+Para facilitar os testes e a revisão do código sem a necessidade de configuração do ambiente local, toda a lista de exercícios e os desafios lógicos podem ser acessados, executados e testados diretamente no navegador através da nuvem.
+
+🔗 **[Acessar e Executar Códigos no Google Colab](https://colab.research.google.com/drive/18d1-mNojkxt8T3hsgUbb3L5aiJLzT0s-?usp=sharing)**
+
 ## 🎯 Objetivos
 * Consolidar a sintaxe da linguagem Python e as boas práticas de codificação.
 * Desenvolver o raciocínio lógico-matemático através de algoritmos de complexidade .
