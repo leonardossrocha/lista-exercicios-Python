@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #--------------------GLOBAL--------------------#
 lista = []  # define uma variável para a lista
 
@@ -80,7 +79,7 @@ while opc != 4:
         print("Opção inválida! Escolha entre 1 e 4.")
 
 lista_agenda(0, 0, 4)  # grava a lista na agenda
-=======
+
 #--------------------GLOBAL--------------------#
 lista = []  # define uma variável para a lista
 
@@ -162,5 +161,4 @@ while opc != 4:
         print("Opção inválida! Escolha entre 1 e 4.")
 
 lista_agenda(0, 0, 4)  # grava a lista na agenda
->>>>>>> fea8fde18f8050ce2589a8dc018eda5f9ba99a77
 print("FIM DO PROGRAMA!")
