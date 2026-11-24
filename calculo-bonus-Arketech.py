@@ -13,7 +13,7 @@ print("       RH ARKETECH - BÔNUS INICIAL      ")
 print("========================================\n")
 
 while True:
-    print("\n--- NOVO REGISTO ---")
+    print("\n--- NOVO REGISTRO ---")
     
     # O .strip() remove espaços em branco digitados sem querer
     nome = input("Nome completo (ou digite '0' para sair): ").strip()
@@ -41,7 +41,7 @@ while True:
             
     except ValueError:
         print("\n⚠️ ERRO DE SINTAXE: Digite apenas números com ponto (ex: 1500.50).")
-        print("Registo cancelado. Tente novamente.")
+        print("Registro cancelado. Tente novamente.")
         continue 
     
     # Processamento chamando a função (def) isolada lá em cima
@@ -50,7 +50,7 @@ while True:
     
     # Saída de Dados Formatada
     print("\n" + "="*42)
-    print(f"|{'RESUMO DE CONTRATAÇÃO':^40}|")
+    print(f"|{'RESUMO DE CONTRATAÇÃO':^40}|") 
     print("="*42)
     
     print(f"| 👤 NOME:    {nome.title():<28} |")
